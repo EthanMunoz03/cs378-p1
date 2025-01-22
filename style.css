@@ -9,12 +9,14 @@ h1 {
     align-self: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: x-large;
+    padding: 20%;
 }
 
 h2 {
     color: papayawhip;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
+    padding: 10%;
 }
 
 .itemNames {
