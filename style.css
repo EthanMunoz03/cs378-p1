@@ -17,6 +17,11 @@ h2 {
     font-size: large;
 }
 
+.itemNames {
+    color: black;
+    font-weight: bold;
+}
+
 .container {
     background-color: brown;
 }
