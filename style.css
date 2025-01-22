@@ -12,16 +12,17 @@ h1 {
 }
 
 h2 {
-    color: burlywood;
+    color: papayawhip;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
 }
 
 .itemNames {
-    color: black;
+    color: white;
     font-weight: bold;
 }
 
 .container {
-    background-color: brown;
+    background-color: burlywood;
+
 }
