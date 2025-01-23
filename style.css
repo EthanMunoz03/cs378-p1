@@ -22,6 +22,10 @@ h2 {
     padding: 10%;
 }
 
+.row {
+    max-width: 100%;
+}
+
 .itemNames {
     color: white;
     font-weight: bold;
