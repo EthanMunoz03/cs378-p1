@@ -14,7 +14,7 @@ h1 {
 
 h2 {
     color: papayawhip;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 36px;
     padding: 10%;
 }
@@ -22,6 +22,10 @@ h2 {
 .itemNames {
     color: white;
     font-weight: bold;
+}
+
+.itemPhotos {
+    size: 20%;
 }
 
 .container {
