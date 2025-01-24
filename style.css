@@ -33,6 +33,10 @@ h2 {
     background-color: fuchsia;
 } */
 
+img {
+    size: 100px;
+}
+
 .itemNames {
     color: white;
     font-weight: bold;
