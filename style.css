@@ -5,10 +5,10 @@
 }
 
 body {
-    color: white;
+    color: black;
     align-items: center;
     align-self: center;
-    /* background-color: burlywood; */
+    background-color: ivory;
 }
 
 h1 {
@@ -63,6 +63,6 @@ h2 {
     max-width: 30%;
 }
 
-/* .container {
-    background-color: burlywood;
-} */
+.container {
+    background-color: ivory;
+}
