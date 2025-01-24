@@ -32,7 +32,8 @@ h1 {
 }
 
 h2 {
-    color: #38220c;
+    /* color: #38220c; */
+    color: #3d240a;
     text-align: center;
     font-family: "League Gothic";
     font-size: 2rem;
