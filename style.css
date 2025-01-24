@@ -48,7 +48,7 @@ h2 {
 .itemPhoto, #logo {
     max-height: 30%;
     max-width: 30%;
-    margin-top: 4%;
+    /* margin-top: 4%; */
 }
 
 .itemDescription {
