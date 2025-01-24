@@ -38,20 +38,6 @@ h2 {
     font-weight: bold;
 }
 
-/* .row {
-    max-width: 100%;
-    background-color: blueviolet;
-} */
-
-/* .col {
-    background-color: fuchsia;
-} */
-
-/* img {
-    size: 50%;
-    max-width: 50%;
-} */
-
 .itemName {
     color: #211406;
     font-weight: bold;
@@ -67,11 +53,13 @@ h2 {
 .itemDescription {
     color: #2b1806;
     size: 0.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .itemPrices {
     color: #2b1806;
     size: 0.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .container {
