@@ -69,21 +69,21 @@ h2 {
     color: #2b1806;
     font-weight: bold;
     /* size: 1vw; */
-    font-size: 6vw;
+    font-size: 5vw;
 }
 
 .itemDescription {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #2b1806;
     /* size: 0.25rem; */
-    font-size: 5vw;
+    font-size: 4vw;
 }
 
 .itemPrice {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #2b1806;
     /* size: 0.5rem; */
-    font-size: 5vw;
+    font-size: 4vw;
     margin-top: 4%;
 }
 
