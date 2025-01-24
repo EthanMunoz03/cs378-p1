@@ -39,6 +39,10 @@ h2 {
     font-weight: bold;
 }
 
+.menuTitle {
+    padding: 5%;
+}
+
 .itemName {
     color: #211406;
     font-weight: bold;
