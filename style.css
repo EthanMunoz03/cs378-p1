@@ -53,6 +53,11 @@ h2 {
     align-items: center;
 }
 
+.menuItem {
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
 .menuTitle {
     padding-top: 15%;
     padding-left: 5%;
