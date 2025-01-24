@@ -68,27 +68,30 @@ h2 {
 .itemName {
     color: #2b1806;
     font-weight: bold;
-    size: 1vw;
+    /* size: 1vw; */
+    font-size: 2vw;
 }
 
 .itemDescription {
-    color: #2b1806;
-    size: 0.25rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #2b1806;
+    /* size: 0.25rem; */
+    font-size: 1vw;
 }
 
 .itemPrice {
-    color: #2b1806;
-    size: 0.5rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2b1806;
+    /* size: 0.5rem; */
+    font-size: 1vw;
     margin-top: 4%;
 }
 
 .btn {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    background-color: #fff6e8;
     color: #38220c;
+    background-color: #fff6e8;
     outline-color: #fff6e8;
     border-radius: 20px;
 }
