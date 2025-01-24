@@ -19,7 +19,7 @@ h1 {
     padding-top: 10%;
     padding-left: 20%;
     padding-right: 20%;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
     font-weight: bolder;
 }
 
@@ -28,6 +28,7 @@ h2 {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 2rem;
+    padding-top: 5%;
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 10%;
