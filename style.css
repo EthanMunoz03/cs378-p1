@@ -36,6 +36,7 @@ h2 {
 .itemNames {
     color: white;
     font-weight: bold;
+    margin: 0;
 }
 
 .itemPhotos {
