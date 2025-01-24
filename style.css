@@ -61,7 +61,7 @@ h2 {
 .itemPhotos {
     max-height: 30%;
     max-width: 30%;
-    margin: 5%;
+    /* margin: 5%; */
 }
 
 .container {
