@@ -15,7 +15,7 @@ h1 {
     color: orange;
     text-align: center;
     font-family: "Bowlby One";
-    font-size: 3rem;
+    font-size: 4rem;
     padding-top: 20%;
     padding-left: 20%;
     padding-right: 20%;
@@ -27,7 +27,7 @@ h2 {
     color: papayawhip;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 36px;
+    font-size: 3rem;
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 10%;
@@ -35,6 +35,7 @@ h2 {
 
 .btn {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
 }
 
 /* .row {
