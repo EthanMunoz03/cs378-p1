@@ -42,7 +42,9 @@ h2 {
 }
 
 .menuTitle {
-    padding: 5%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .itemName {
@@ -51,7 +53,7 @@ h2 {
     size: 1rem;
 }
 
-.itemPhoto, #logo {
+.itemPhoto {
     max-height: 35%;
     max-width: 35%;
     /* margin-top: 4%; */
