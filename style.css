@@ -67,6 +67,8 @@ h2 {
 }
 
 .logo {
-    max-height: 10%;
-    max-width: 10%;
+    max-height: 20%;
+    max-width: 20%;
+    align-self: center;
+    align-items: center;
 }
