@@ -55,13 +55,13 @@ h2 {
 .itemNames {
     color: white;
     font-weight: bold;
-    margin: 0;
     size: 1rem;
 }
 
 .itemPhotos {
     max-height: 30%;
     max-width: 30%;
+    margin: 5%;
 }
 
 .container {
