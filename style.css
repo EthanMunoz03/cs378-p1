@@ -44,7 +44,7 @@ h2 {
     size: 1rem;
 }
 
-.itemPhoto {
+.itemPhoto, #logo {
     max-height: 30%;
     max-width: 30%;
     /* margin: 5%; */
