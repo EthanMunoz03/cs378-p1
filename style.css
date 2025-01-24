@@ -36,8 +36,9 @@ h2 {
 .btn {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    background-color: #ffe4c9;
+    background-color: #fff6e8;
     color: #38220c;
+    outline-color: #fff6e8;
 }
 
 .menuTitle {
