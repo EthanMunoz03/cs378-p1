@@ -8,8 +8,8 @@ body {
     color: white;
     align-items: center;
     align-self: center;
-    background-color: burlywood;
-}
+    /* background-color: burlywood;
+} */
 
 h1 {
     color: orange;
@@ -63,6 +63,6 @@ h2 {
     max-width: 30%;
 }
 
-.container {
+/* .container {
     background-color: burlywood;
-}
+} */
