@@ -46,16 +46,16 @@ h2 {
     padding-right: 5%;
 }
 
-.itemName {
-    color: #211406;
-    font-weight: bold;
-    size: 1rem;
-}
-
 .itemPhoto {
     max-height: 35%;
     max-width: 35%;
     /* margin-top: 4%; */
+}
+
+.itemName {
+    color: #211406;
+    font-weight: bold;
+    size: 1vw;
 }
 
 .itemDescription {
