@@ -65,3 +65,8 @@ h2 {
 .container {
     background-color: blanchedalmond;
 }
+
+#logo {
+    max-height: 5%;
+    max-width: 5%;
+}
