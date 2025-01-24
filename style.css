@@ -35,6 +35,7 @@ h2 {
 
 img {
     size: 100%;
+    max-width: 100%;
 }
 
 .itemNames {
